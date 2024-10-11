@@ -6,23 +6,28 @@
 
 ## 🌱 Learning
 - Currently enrolled in the ALX Data Science Certfication
-- learning about Power Apps.
+- Learning about Regression.
   
 ## 🔭 Current Projects
-- [Project Name](link-to-project): Brief description of what the project is about.
-- [Another Project](link-to-project): A short description.
+- [Gender Disparity in access to Water](https://github.com/lisaogeya/Gender_Disparity_in_Access_to_Water):
+   This project explores gender parity in access to water, budget allocation, and infrastructure management in the fictional state of Maji Ndogo. It explores 
+   water usage patterns, queue compositions, and pollution levels across various provinces, with a focus on disparities between men, women, and children in accessing water.
+- [Covid-19 Analysis](link-to-project): A short description.
 
 
 
 ## 💬 Ask me about
-- List down things you are knowledgeable about and willing to help others with.
+- Databases
+- Visualization
+- Statistycal Analysis
+- Android Security Development
 
 ## 📫 How to reach me
-- [Email](mailto:your-email@example.com)
+- [Email](lisaogeya.l@gmail.com)
 - [LinkedIn](link-to-your-linkedin)
 
 ## ⚡ Fun fact
-- Share an interesting or fun fact about yourself!
+- I love creating new meals🧑‍🍳🥘 when i'm not exploring data 😄
 
 ![Your Banner Image](link-to-banner-image) // Optional: Add a custom banner image for visual appeal.
 
