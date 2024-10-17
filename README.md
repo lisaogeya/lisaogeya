@@ -23,7 +23,7 @@
 - Android Security Development
 
 ## 📫 How to reach me
-- [Email](lisaogeya.l@gmail.com)
+- [Email](mailto:lisaogeya.l@gmail.com)
 - [LinkedIn](link-to-your-linkedin)
 
 ## ⚡ Fun fact
