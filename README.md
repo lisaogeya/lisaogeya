@@ -12,7 +12,7 @@
 - [Gender Disparity in access to Water](https://github.com/lisaogeya/Gender_Disparity_in_Access_to_Water):
    This project explores gender parity in access to water, budget allocation, and infrastructure management in the fictional state of Maji Ndogo. It explores 
    water usage patterns, queue compositions, and pollution levels across various provinces, with a focus on disparities between men, women, and children in accessing water.
-- [Covid-19 Analysis](link-to-project): A short description.
+- [Loan Disbursement Analysis](link-to-project): A short description.
 
 
 
